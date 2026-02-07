@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Section1/">
+    <Project Path="Section1/AccessModifiers/AccessModifiers.csproj" />
+    <Project Path="Section1/Classes/Classes.csproj" />
+    <Project Path="Section1/Constructors/Constructors.csproj" />
+    <Project Path="Section1/Fields/Fields.csproj" />
+    <Project Path="Section1/Indexers/Indexers.csproj" />
+    <Project Path="Section1/Methods/Methods.csproj" />
+    <Project Path="Section1/Properties/Properties.csproj" />
+  </Folder>
+  <Folder Name="/Section2/">
+    <Project Path="Section2/Composition/Composition.csproj" />
+    <Project Path="Section2/Inheritance/Inheritance.csproj" />
+  </Folder>
+</Solution>
