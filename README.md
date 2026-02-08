@@ -1,0 +1,2 @@
+# CSharp-Intermediate
+I'm documenting my journey of learning intermediate concepts like object-oriented programming and interfaces. The resource used to learn is [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
