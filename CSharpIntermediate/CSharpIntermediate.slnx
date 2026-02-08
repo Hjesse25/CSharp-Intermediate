@@ -12,4 +12,11 @@
     <Project Path="Section2/Composition/Composition.csproj" />
     <Project Path="Section2/Inheritance/Inheritance.csproj" />
   </Folder>
+  <Folder Name="/Section3/">
+    <Project Path="Section3/AccessModifiers/AccessModifiers.csproj" />
+    <Project Path="Section3/Amazon/Amazon.csproj" />
+    <Project Path="Section3/Boxing/Boxing.csproj" />
+    <Project Path="Section3/Casting/Casting.csproj" />
+    <Project Path="Section3/Constructors/Constructors.csproj" />
+  </Folder>
 </Solution>
