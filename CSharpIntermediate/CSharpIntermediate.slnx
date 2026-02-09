@@ -19,4 +19,8 @@
     <Project Path="Section3/Casting/Casting.csproj" />
     <Project Path="Section3/Constructors/Constructors.csproj" />
   </Folder>
+  <Folder Name="/Section4/">
+    <Project Path="Section4/AbstractClasses/AbstractClasses.csproj" />
+    <Project Path="Section4/MethodOverriding/MethodOverriding.csproj" />
+  </Folder>
 </Solution>
